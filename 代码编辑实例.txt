@@ -1,55 +1,61 @@
-Êé¼®£¨¶ÔÓ¦ĞŞ¸ÄMoNiGuaJi.pyµÚ¾ÅĞĞbook=""ÖĞµÄÄÚÈİ£©£º
+ï»¿ç”¨è®°äº‹æœ¬ç­‰ç¼–è¾‘å™¨æ‰“å¼€MoNiGuaJi.py
+å…¶ä¸­çš„ç¬¬7 8 9 10è¡Œéœ€è¦ä¿®æ”¹
+ç¬¬ä¸ƒè¡Œaoccount=''ä¸­çš„å†…å®¹ä¿®æ”¹ä¸ºå­¦å·
+ç¬¬å…«è¡Œpassword=''ä¸­çš„å†…å®¹ä¿®æ”¹ä¸ºå¯†ç 
 
-  ĞÂÊÀ¼Í´óÑ§Ó¢Óï¿ìËÙÔÄ¶Á½Ì³ÌµÚÒ»²á
+
+ä¹¦ç±ï¼ˆå¯¹åº”ä¿®æ”¹MoNiGuaJi.pyç¬¬ä¹è¡Œbook=""ä¸­çš„å†…å®¹ï¼‰ï¼š
+
+  æ–°ä¸–çºªå¤§å­¦è‹±è¯­å¿«é€Ÿé˜…è¯»æ•™ç¨‹ç¬¬ä¸€å†Œ
   College_English_NEW_Century_Fast_Reading_1
 
-  £¨ÒÔ´ËÀàÍÆ£ºĞÂÊÀ¼Í´óÑ§Ó¢Óï¿ìËÙÔÄ¶Á½Ì³ÌµÚ¶ş²á  College_English_NEW_Century_Fast_Reading_2£©
+  ï¼ˆä»¥æ­¤ç±»æ¨ï¼šæ–°ä¸–çºªå¤§å­¦è‹±è¯­å¿«é€Ÿé˜…è¯»æ•™ç¨‹ç¬¬äºŒå†Œ  College_English_NEW_Century_Fast_Reading_2ï¼‰
 
-  ĞÂÊÀ¼Í´óÑ§Ó¢Óï×ÛºÏ½Ì³ÌµÚÒ»²á
+  æ–°ä¸–çºªå¤§å­¦è‹±è¯­ç»¼åˆæ•™ç¨‹ç¬¬ä¸€å†Œ
   College_English_NEW_Century_Integration_1
 
-  ĞÂÊÀ¼Í´óÑ§Ó¢Óï£¨µÚ¶ş°æ£©×ÛºÏ½Ì³ÌµÚÒ»²á
+  æ–°ä¸–çºªå¤§å­¦è‹±è¯­ï¼ˆç¬¬äºŒç‰ˆï¼‰ç»¼åˆæ•™ç¨‹ç¬¬ä¸€å†Œ
   College_English_NEW_Century_SecEdition_Integration_1
 
-  ĞÂÊÀ¼Í´óÑ§Ó¢ÓïÊÓÌıËµ½Ì³ÌµÚÒ»²á
+  æ–°ä¸–çºªå¤§å­¦è‹±è¯­è§†å¬è¯´æ•™ç¨‹ç¬¬ä¸€å†Œ
   College_English_NEW_Century_Video_1
 
-  ĞÂÊÀ¼Í´óÑ§Ó¢Óï£¨µÚ¶ş°æ£©ÊÓÌıËµ½Ì³Ì£¨3rd Edition£©µÚÒ»²á
+  æ–°ä¸–çºªå¤§å­¦è‹±è¯­ï¼ˆç¬¬äºŒç‰ˆï¼‰è§†å¬è¯´æ•™ç¨‹ï¼ˆ3rd Editionï¼‰ç¬¬ä¸€å†Œ
   College_English_NEW_Century_Video_ThirdEdition_1
 
-  ´óÑ§Ó¢Óï£¨µÚÈı°æ£©¾«¶ÁµÚÒ»²á
+  å¤§å­¦è‹±è¯­ï¼ˆç¬¬ä¸‰ç‰ˆï¼‰ç²¾è¯»ç¬¬ä¸€å†Œ
   College_English_third_Edition_Integration_1
 
-  ´óÑ§Ó¢Óï£¨µÚÈı°æ£©ÌıËµµÚÒ»²á
+  å¤§å­¦è‹±è¯­ï¼ˆç¬¬ä¸‰ç‰ˆï¼‰å¬è¯´ç¬¬ä¸€å†Œ
   College_English_third_Edition_Listening_1
 
-µ¥Ôª£¨¶ÔÓ¦ĞŞ¸ÄMoNiGuaJi.pyµÚÊ®ĞĞunit=""ÖĞµÄÄÚÈİ£©£º
+å•å…ƒï¼ˆå¯¹åº”ä¿®æ”¹MoNiGuaJi.pyç¬¬åè¡Œunit=""ä¸­çš„å†…å®¹ï¼‰ï¼š
 
-  µÚÒ»µ¥Ôª  Unit_01
+  ç¬¬ä¸€å•å…ƒ  Unit_01
 
-  £¨ÒÔ´ËÀàÍÆ£ºµÚ¶şµ¥ÔªUnit_02£©
-
-
+  ï¼ˆä»¥æ­¤ç±»æ¨ï¼šç¬¬äºŒå•å…ƒUnit_02ï¼‰
 
 
 
 
-ÆäËû¿Î³Ì£º
 
-  ÌıÌı  1_Listening_Practice
-    unit name="Unit_01" display="ÌıÁ¦¶Ô»°"
-    unit name="Unit_02" display="ÌıÁ¦¶ÌÎÄ"
-    unit name="Unit_03" display="¶ÌÎÄÌıĞ´"
-  ËµËµ  2_Oral_Practice
-    unit name="Unit_01" display="¶ÌÎÄÀÊ¶Á"
-    unit name="Unit_02" display="¾ä×Ó¸´Êö"
-    unit name="Unit_03" display="¿´Í¼Ëµ»°"
-  ¶Á¶Á  3_Reading_Practice
-    unit name="Unit_01" display="¿ìËÙÔÄ¶Á"
-    unit name="Unit_02" display="×ĞÏ¸ÔÄ¶Á"
-  ¿´¿´  4_Video_Practice
-    unit name="Unit_01" display="ÊÓÆµÀí½â"
-  CET-4 Ä£ÄâÌâ  5_Simulated_CET4_Tests
+
+å…¶ä»–è¯¾ç¨‹ï¼š
+
+  å¬å¬  1_Listening_Practice
+    unit name="Unit_01" display="å¬åŠ›å¯¹è¯"
+    unit name="Unit_02" display="å¬åŠ›çŸ­æ–‡"
+    unit name="Unit_03" display="çŸ­æ–‡å¬å†™"
+  è¯´è¯´  2_Oral_Practice
+    unit name="Unit_01" display="çŸ­æ–‡æœ—è¯»"
+    unit name="Unit_02" display="å¥å­å¤è¿°"
+    unit name="Unit_03" display="çœ‹å›¾è¯´è¯"
+  è¯»è¯»  3_Reading_Practice
+    unit name="Unit_01" display="å¿«é€Ÿé˜…è¯»"
+    unit name="Unit_02" display="ä»”ç»†é˜…è¯»"
+  çœ‹çœ‹  4_Video_Practice
+    unit name="Unit_01" display="è§†é¢‘ç†è§£"
+  CET-4 æ¨¡æ‹Ÿé¢˜  5_Simulated_CET4_Tests
     unit name="Unit_01" display="Test 1"
     unit name="Unit_02" display="Test 2"
     unit name="Unit_03" display="Test 3"
@@ -62,4 +68,4 @@
     unit name="Unit_10" display="Test 10"
 
 
-¸ü¶àµÄµ½GetCorseList.txtÀïÃæÂıÂıÑ°ÕÒÒ»ÏÂ¡­¡­
+æ›´å¤šçš„åˆ°GetCorseList.txté‡Œé¢æ…¢æ…¢å¯»æ‰¾ä¸€ä¸‹â€¦â€¦
