@@ -37,7 +37,7 @@ By 写了一整天代码没去上课也没吃饭的kindJeff
 
 第10行 `unit = 'Unit_06'` ，单引号中写入单元的英文名称（第X单元：Unit_0X）
 
->**例：**第九行College_English_NEW_Century_SecEdition_Integration_1第十行Unit_06就代表新世纪大学英语（第二版）综合教程第一册 的 第六单元
+>**例：**第九行College_English_NEW_Century_SecEdition_Integration_1第十行Unit_06就代表新世纪大学英语（第二版）综合教程第三册 的 第六单元
 
 保存MoNiGuaJi.py
 
