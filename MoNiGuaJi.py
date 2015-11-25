@@ -4,7 +4,7 @@
 import urllib2
 import time
 
-account = '1410300118'#input('input account:')
+account = ''#input('input account:')
 password = '888888'#input('input password:')
 book = 'College_English_NEW_Century_SecEdition_Integration_3'
 unit = 'Unit_06'
