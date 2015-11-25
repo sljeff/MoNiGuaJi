@@ -12,6 +12,8 @@ By 写了一整天代码没去上课也没吃饭的kindJeff
 ### Part1.下载这个脚本
 在页面上找到Download ZIP按钮，下载，并且全部解压
 
+速度慢的话可以在度盘下载 http://pan.baidu.com/s/1qWN7sYS
+
 会得到几个文件和一个名为Pyhton27的文件夹。
 
 ### Part2.修改个人信息
