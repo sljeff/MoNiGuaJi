@@ -1,0 +1,65 @@
+书籍（对应修改MoNiGuaJi.py第九行book=""中的内容）：
+
+  新世纪大学英语快速阅读教程第一册
+  College_English_NEW_Century_Fast_Reading_1
+
+  （以此类推：新世纪大学英语快速阅读教程第二册  College_English_NEW_Century_Fast_Reading_2）
+
+  新世纪大学英语综合教程第一册
+  College_English_NEW_Century_Integration_1
+
+  新世纪大学英语（第二版）综合教程第一册
+  College_English_NEW_Century_SecEdition_Integration_1
+
+  新世纪大学英语视听说教程第一册
+  College_English_NEW_Century_Video_1
+
+  新世纪大学英语（第二版）视听说教程（3rd Edition）第一册
+  College_English_NEW_Century_Video_ThirdEdition_1
+
+  大学英语（第三版）精读第一册
+  College_English_third_Edition_Integration_1
+
+  大学英语（第三版）听说第一册
+  College_English_third_Edition_Listening_1
+
+单元（对应修改MoNiGuaJi.py第十行unit=""中的内容）：
+
+  第一单元  Unit_01
+
+  （以此类推：第二单元Unit_02）
+
+
+
+
+
+
+其他课程：
+
+  听听  1_Listening_Practice
+    unit name="Unit_01" display="听力对话"
+    unit name="Unit_02" display="听力短文"
+    unit name="Unit_03" display="短文听写"
+  说说  2_Oral_Practice
+    unit name="Unit_01" display="短文朗读"
+    unit name="Unit_02" display="句子复述"
+    unit name="Unit_03" display="看图说话"
+  读读  3_Reading_Practice
+    unit name="Unit_01" display="快速阅读"
+    unit name="Unit_02" display="仔细阅读"
+  看看  4_Video_Practice
+    unit name="Unit_01" display="视频理解"
+  CET-4 模拟题  5_Simulated_CET4_Tests
+    unit name="Unit_01" display="Test 1"
+    unit name="Unit_02" display="Test 2"
+    unit name="Unit_03" display="Test 3"
+    unit name="Unit_04" display="Test 4"
+    unit name="Unit_05" display="Test 5"
+    unit name="Unit_06" display="Test 6"
+    unit name="Unit_07" display="Test 7"
+    unit name="Unit_08" display="Test 8"
+    unit name="Unit_09" display="Test 9"
+    unit name="Unit_10" display="Test 10"
+
+
+更多的到GetCorseList.txt里面慢慢寻找一下……
