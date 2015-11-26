@@ -1,6 +1,5 @@
 # -*- coding: utf-8 -*- 
 #KindJeff
-#import urllib
 import urllib2
 import time
 
