@@ -23,14 +23,7 @@ By 写了一整天代码没去上课也没吃饭的kindJeff
 
 前提条件：必须可以访问http://10.215.27.244/NPELS/  （必须是可联机的校内电信网或者学校局域网，包括湖工的WIFI）
 
-### Part1.下载这个脚本
-在页面上找到Download ZIP按钮，下载，并且全部解压
-
-速度慢的话可以在度盘下载 http://pan.baidu.com/s/1qWN7sYS
-
-会得到几个文件和一个名为Pyhton27的文件夹。
-
-### Part2.修改个人信息
+### Part1.修改个人信息
 在解压出来文件夹目录找到MoNiGuaJi.py文件，右键选择使用记事本等编辑器打开
 
 第7行 `account = ''` ，单引号中写入你的学号
@@ -45,24 +38,14 @@ By 写了一整天代码没去上课也没吃饭的kindJeff
 
 保存MoNiGuaJi.py
 
-### Part3.运行
-右键MoNiGuaJi.py，选择打开方式，选择解压出的Python27文件夹的pyhton.exe
-
->另一种说法：右键点击MoNiGuaJi.py，选择用Python27文件夹下的python.exe打开
-
-如果已经在网页或者客户端切换好班级，这个步骤可以省略，直接回车
->他会读取你的所有班级
-
->每个班级前面有一个对应的classNo，注意看仔细
-
->然后会列出你当前的classNo，如果classNo不是你想要的对应班级，输入想切换的classNo，保证你的输入是正确的，回车
+运行MoNiGuaJi.py，看到一堆字，回车
 
 出现一堆乱七八糟的东西，和一句`0 minutes`
 
 **现在，你所填写的单元时长增加了一个小时**
 ![Foo](https://github.com/sljeff/MoNiGuaJi/raw/master/Photos/append60.png)
 
-### Part4.等待
+### Part2.等待
 如果你现在关掉这个脚本，登陆挂机中心，会发现自己填写的单元挂机时长增加了一个小时，课程挂机时长也增加了一个小时。
 
 但但但但但是，你的在线总时长没有变。
